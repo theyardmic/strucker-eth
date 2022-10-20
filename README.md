@@ -12,10 +12,10 @@ Web 3 Dev.<br>Currently deploying smart contracts.<br>Talk to me about anything 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=strucker-eth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strucker-eth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+###Random Dev Quote✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+###Random Dev Meme😂 😂 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
