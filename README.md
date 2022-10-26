@@ -16,5 +16,4 @@ Talk to me about anything Web 3 and blockchain.
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂Random Dev Meme
-<img src="[https://www.istockphoto.com/search/2/image?phrase=web%203/]" width="512px"/>
+
