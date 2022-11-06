@@ -23,7 +23,25 @@ Talk to me about anything Web 3 and blockchain.
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
+  ![Web3](https://img.shields.io/badge/web3-%23F05033.svg?style=plastic&logo=web3&logoColor=white)
+
+![Web3.js](https://img.shields.io/badge/web3js-%23F05033.svg?style=plastic&logo=web3js&logoColor=white)
+
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
+ 
+ ![Ethereum](https://img.shields.io/badge/ethereum-%233733FF.svg?style=plastic&logo=ethereum&logoColor=white)
+
+![Alchemy](https://img.shields.io/badge/alchemy-%23F05033.svg?style=plastic&logo=alchemy&logoColor=white)
+
+![scaffold-eth](https://img.shields.io/badge/scaffoldeth-%23F05033.svg?style=plastic&logo=scaffoldeth&logoColor=white)
+
+![Infura](https://img.shields.io/badge/infura-%23F05033.svg?style=plastic&logo=infura&logoColor=white)
+
+![IPFS](https://img.shields.io/badge/ipfs-%23F05033.svg?style=plastic&logo=ipfs&logoColor=white)
+
+![MetaMask](https://img.shields.io/badge/metamask-%23F05033.svg?style=plastic&logo=metamask&logoColor=white)
+
+![Hardhat](https://img.shields.io/badge/hardhat-%23F05033.svg?style=plastic&logo=hardhat&logoColor=white)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 
@@ -51,23 +69,6 @@ Talk to me about anything Web 3 and blockchain.
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-![scaffold-eth](https://img.shields.io/badge/scaffoldeth-%23F05033.svg?style=plastic&logo=scaffoldeth&logoColor=white)
-
-![Ethereum](https://img.shields.io/badge/ethereum-%233733FF.svg?style=plastic&logo=ethereum&logoColor=white)
-
-![IPFS](https://img.shields.io/badge/ipfs-%23F05033.svg?style=plastic&logo=ipfs&logoColor=white)
-
-![Web3](https://img.shields.io/badge/web3-%23F05033.svg?style=plastic&logo=web3&logoColor=white)
-
-![Web3.js](https://img.shields.io/badge/web3js-%23F05033.svg?style=plastic&logo=web3js&logoColor=white)
-
-![Alchemy](https://img.shields.io/badge/alchemy-%23F05033.svg?style=plastic&logo=alchemy&logoColor=white)
-
-![Infura](https://img.shields.io/badge/infura-%23F05033.svg?style=plastic&logo=infura&logoColor=white)
-
-![MetaMask](https://img.shields.io/badge/metamask-%23F05033.svg?style=plastic&logo=metamask&logoColor=white)
-
-![Hardhat](https://img.shields.io/badge/hardhat-%23F05033.svg?style=plastic&logo=hardhat&logoColor=white)
     
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=strucker-eth&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
