@@ -1,4 +1,4 @@
-# Hello 👋,I'm Strucker
+# Hello 👋,I'm Lennox Matwere
 A Web 3 Dev.
 Talk to me about anything Web 3 and Cute Doggies.
 ## 🌐Socials
