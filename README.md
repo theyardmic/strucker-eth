@@ -1,5 +1,5 @@
 # Hello 👋,I'm Lennox Matwere
-## A Web and Blockchain Dev. 
+## A Web Dev and Blockchain Engineer. 
 
 Talk to me about anything Web 3 and Cute Doggies.
 ## 🌐Connect with me on:
