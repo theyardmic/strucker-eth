@@ -1,4 +1,4 @@
-# Hello 👋.I am Strucker :
+# Hello 👋.I'm Strucker :
 A Web 3 Dev.
 Talk to me about anything Web 3 and Cute Doggies.
 ## 🌐Socials
