@@ -1,4 +1,4 @@
-# Hello 👋,I'm Strucker
+# Hello 👋,I'm Lennox Matwere
 ## A Web🌐 Dev and Blockchain Engineer👩‍💻. 
 
 ### Talk to me about Web 3🔷 and Cute Doggies🐕‍🦺.
