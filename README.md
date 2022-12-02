@@ -1,5 +1,5 @@
-# Hello 👋,I'm Lennox Matwere
-## A Web 3🌐 Dev and Blockchain Engineer👩‍💻. 
+## Hello 👋,I'm Lennox Matwere
+### A Web 3🌐 Dev and Blockchain Engineer👩‍💻. 
 
 ## 📩Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennox-matwere)
