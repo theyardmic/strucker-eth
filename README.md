@@ -1,7 +1,6 @@
 # Hello 👋,I'm Lennox Matwere
 ## A Web 3🌐 Dev and Blockchain Engineer👩‍💻. 
 
-### Talk to me about Web 3🔷 and Cute Doggies🐕‍🦺.
 ## 📩Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennox-matwere)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theyardmic) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BXVuufkbhD)  [![Sololearn](https://img.shields.io/badge/Sololearn-12100E?logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/11798607)
