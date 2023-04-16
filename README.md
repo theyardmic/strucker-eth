@@ -1,4 +1,4 @@
-## Hello 👋,I'm Lennox Matwere
+## Hello 👋,I'm Peter Nduati 
 ### A Web 3🌐 Dev and Blockchain Engineer👩‍💻. 
 
 ## 📩Connect with me on:
